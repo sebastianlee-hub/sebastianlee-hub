@@ -1,7 +1,7 @@
 # 📚🧑🏻‍💻🔮Hello, I'm Sebastian.
 ## 🫰🏻SULL YOON
 
-<p align="center"><img align="center" src="#"/></p>
+<p align="center"><img align="center" src="img/sullyoon_1.jpg"/></p>
 
 <h3 align="left">🦧Technology Stack:</h3>
 <table>
