@@ -1,5 +1,5 @@
-# 📚🧑🏻‍💻🔮Hello, I'm Sebastian.
-## 🫰🏻SULL YOON
+<h3 align="left">📚🧑🏻‍💻🔮Hello, I'm Sebastian.</h3>
+<h3 align="left">🫰🏻SULL YOON</h3>
 
 <p align="center"><img align="center" src="img/sullyoon_1.jpg"/></p>
 
@@ -26,3 +26,4 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,bun,git,aws,idea,apple"/></td>
   </tr>
 </table>
+<p align="left">&copy;SDEK</p>
