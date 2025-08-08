@@ -25,5 +25,9 @@
             <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,bun,git,aws,idea,apple"/></td>
   </tr>
+        <tr>
+                <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">📖Books:</td>
+                <td>三国演义， 孙子兵法， 水浒传， 易经</td>
+        </tr>
 </table>
 <p align="left">&copy;SDEK</p>
