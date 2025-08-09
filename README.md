@@ -1,4 +1,7 @@
 <h3 align="left">📚🧑🏻‍💻🔮Hello, I'm Sebastian.</h3>
+<p align="left">
+  "나를 강하게 하시는 이 안에서 내가 모든 것을 할 수 있느니라” (빌립보서 4:13)
+</p>
 <h3 align="left">🫰🏻SULL YOON</h3>
 
 <p align="center"><img align="center" src="img/sullyoon_1.jpg"/></p>
