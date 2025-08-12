@@ -1,1 +1,1 @@
-<h1 align="center">Sebastian</h1>
+<img align="center" src="img/sullyoon_1.jpg">
