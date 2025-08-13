@@ -1,1 +1,1 @@
-<img align="center" src="img/sullyoon_1.jpg">
+<img align="center" src="img/god001.png">
